@@ -1,7 +1,7 @@
 {
   "name": "cat-meal-timer",
   "short_name": "cat-meal-tim",
-  "description": "cat-meal-timer - 🐈 #f59e0b 테마",
+  "description": "cat-meal-timer - 🐱 #f59e0b 테마",
   "start_url": "./index.html",
   "display": "standalone",
   "scope": "./",
