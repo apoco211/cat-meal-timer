@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cat-meal-timer-v1.9.4';
+const CACHE_NAME = 'cat-meal-timer-v18.3.1';
 const urlsToCache = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 self.addEventListener('install', e => {
   self.skipWaiting();
